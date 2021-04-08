@@ -3,5 +3,7 @@
   "ticker": "NEO",
   "description": "there is a glitch in the matrix",
   "homepage": "https://www.neostakepool.com",
-  "nonce": "1617890426"
+  "nonce": "1617908170",
+  "extended": "https://japio85.github.io/pool.json"
 }
+
