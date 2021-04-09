@@ -1,9 +1,9 @@
 {
   "name": "NEO",
   "ticker": "NEO",
-  "description": "there is a glitch in the matrix",
+  "description": "Telegram NEO stakepool",
   "homepage": "https://www.neostakepool.com",
-  "nonce": "1617908170",
+  "nonce": "1617995533"
   "extended": "https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
   "29e528f798f93be5b4d37c674397ccfe"
 },
