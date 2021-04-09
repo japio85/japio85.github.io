@@ -4,8 +4,12 @@
   "description": "there is a glitch in the matrix",
   "homepage": "https://www.neostakepool.com",
   "nonce": "1617908170",
-  "extended": "https://japio85.github.io/pool.json"
+  "extended": "https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json""
   "29e528f798f93be5b4d37c674397ccfe"
+},
+"info": {
+        "location": "Amsterdam, Netherlands",
+        "social": {
+            "twitter_handle": "AdapoolsO",
+            "telegram_handle": "adapools_ops"
 }
-
-
