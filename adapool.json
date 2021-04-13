@@ -54,11 +54,8 @@
                 "name": "block producer home",
                 "type": "bp",
                 "key": "example_get_own_on_adapools.org/connect"
-            }
+            },
+             "29e528f798f93be5b4d37c674397ccfe"  
         }
     }
-}
-    
-}
-  "29e528f798f93be5b4d37c674397ccfe"
 }
