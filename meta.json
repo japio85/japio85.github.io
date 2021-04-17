@@ -2,7 +2,7 @@
   "name": "NEO",
   "ticker": "NEO",
   "description": "Telegram NEO stakepool",
-  "homepage": "https://www.neostakepool.com",
-  "nonce": "1618228532",
+  "homepage": "https://www.neostakepool.nl",
+  "nonce": "1618656344",
   "extended": "https://japio85.github.io/adapool.json"
 }
