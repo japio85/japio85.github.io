@@ -4,5 +4,5 @@
   "description": "Telegram NEO stakepool",
   "homepage": "https://www.neostakepool.nl",
   "nonce": "1618757595",
-  "extended": "https://japio85.github.io/japio-meta.json"
+  "extended": "https://raw.githubusercontent.com/japio85/japio85.github.io/main/japio-meta.json"
 }
